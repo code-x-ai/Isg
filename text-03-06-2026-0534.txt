@@ -1,0 +1,95 @@
+﻿GIS Practical Exercises
+
+Practical 1: Residential Area Map Creation
+
+1. Create a map of your own residential area including the following features:
+   · Add 4 residential areas (with ID and name)
+   · Add 4 gardens (with ID and name)
+   · Add 2 highways (with ID and name)
+   · Add 2 railway tracks (with ID and name)
+   · Add 5 railway stations (with ID and name)
+   · Add 5 restaurants
+   · Add 5 hospitals
+   · Add 10 buildings
+
+Practical 2: Spatial Queries on Layer Data
+
+Perform the following queries on the layers created in Practical 1:
+
+1. Add a new column "garden_area" and calculate the area of each garden.
+2. Show the largest garden.
+3. Show all railway tracks that intersect with the highway.
+4. Find all restaurants inside the garden.
+5. Find all railway tracks that do not intersect the highway.
+
+Practical 3: Map Composition and Export
+
+Using the layers from Practical 1, create a map with the following elements:
+
+1. Add a north pointer.
+2. Add legends and a scale bar.
+3. Use a distinct symbol to indicate hospitals.
+4. Use symbols to indicate metro stations and railway stations (differentiate them).
+5. Save the final map in JPEG format.
+
+Practical 4: Rural/Urban Planning Map Creation
+
+Create a new map based on the following features:
+
+1. Add one highway.
+2. Add 6 farms.
+3. Add four narrow paths.
+4. Add a main road.
+5. Add two farmhouses.
+6. Add 4 residential areas.
+7. Add two primary schools.
+8. Add a bus stand or an auto stand.
+9. Add a gram panchayat office.
+10. Add 4 wells.
+
+Practical 5: Queries on Rural Map Layers
+
+Perform the following queries on the layers created in Practical 4:
+
+1. Show all farms that contain a well.
+2. Calculate the area of each farm and identify the largest farm.
+3. Show all paths that intersect with the highway.
+
+Practical 6: Railway Route Map
+
+Create a map of a railway route from CST to Chembur including the buildings adjacent to the railway tracks.
+
+Practical 7: Dataset Creation
+
+Create a dataset for all layers used in the above practicals.
+
+Practical 8: Vector Data Creation
+
+Create vector data with an appropriate database for:
+
+· Line features
+· Polygon features
+· Add point objects
+
+Practical 9: Mumbai Map with Cartographic Elements
+
+Use a Mumbai map (base map) and perform the following:
+
+1. Set the map scale to 1:40,000.
+2. Set the coordinate reference system (CRS) to WGS84.
+3. Add legends.
+4. Add a scale bar.
+5. Give a proper title/name to the map.
+6. Import a .csv file containing point data (e.g., landmarks, stations) and overlay it on the map.
+
+Practical 10: Hill Area Mapping
+
+Perform a hill area mapping practical (e.g., contour generation, slope analysis, or terrain mapping – specify as needed).
+
+Practical 11: Mumbai University Area Mapping
+
+Create a map of the Mumbai University area (or a designated campus) including relevant features (buildings, roads, gardens, etc.) as per instructor guidelines.
+
+---
+
+Note: Adjustments may be made based on the specific GIS software used (e.g., QGIS, ArcGIS). Ensure all layers are properly attributed and symbolized.
